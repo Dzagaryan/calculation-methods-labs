@@ -1,0 +1,8 @@
+Seidel Method
+epsilon = 0.0001
+
+Matrix 1
+Norm C = 2.90286
+Norm C_L = 0.318573
+Norm C_U = 2.0803
+StopCriteria ||x^(k+1)-x^k|| < epsilon

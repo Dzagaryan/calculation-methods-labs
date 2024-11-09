@@ -1,0 +1,4 @@
+JacobyMethod
+epsilon = 0.0001
+
+StopCriteria ||x^(k+1)-x^k|| < epsilon
